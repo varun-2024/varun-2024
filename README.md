@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @varun-2024
-- 👀 I’m interested in ...Front End Devlopment. Trying to learn. 
+- 👀 I’m interested in ...Fullstack Devlopment. Learning Front End Devlopment First.
 - 🌱 I’m currently learning ... HTML CSS JAVASCRIP
 - 💞️ I’m looking to collaborate on ... Anything i can learn from
 - 📫 How to reach me ...v.talwar2024@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
