@@ -8,6 +8,25 @@
   
 </div>
 
+<h2 align="left">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px" height="20px"> 
+  About Me 
+</h2>
+
+```js
+
+const Varun = {
+  education:'MBA @ University of East London',
+  interest :['Full Stack Development'],
+  current:  'Learning & Working on Full Stack Projects',
+  tech: {
+    backend:  ['JavaScript', 'Express.js', 'REST API', 'Node.js'],
+    frontend: ['React.js', 'Bootstrap', 'Tailwind CSS'],
+  },
+};
+```
+
+
 - 👋 Hi, I’m @varun-2024
 - 👀 I’m interested in ...Fullstack Development. Learning Front End Development First.
 - 🌱 I’m currently learning ... HTML CSS JAVASCRIPT
@@ -32,23 +51,7 @@
   </a>
 </p>
 
-<h2 align="left">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px" height="20px"> 
-  About Me 
-</h2>
 
-```js
-
-const Varun = {
-  education:'MBA @ University of East London',
-  interest :['Full Stack Development'],
-  current:  'Learning & Working on Full Stack Projects',
-  tech: {
-    backend:  ['JavaScript', 'Express.js', 'REST API', 'Node.js'],
-    frontend: ['React.js', 'Bootstrap', 'Tailwind CSS'],
-  },
-};
-```
 
 
 
