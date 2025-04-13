@@ -23,7 +23,7 @@
 - 💞️ I’m looking to collaborate on ... Anything i can learn from
 - 📫 How to reach me ...v.talwar2024@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Tech Stack: 
 
 <p align="center">
   <a href="https://skillicons.dev">
