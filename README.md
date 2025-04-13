@@ -20,7 +20,9 @@
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px" height="20px"> 
   About Me 
 </h2>
+
 ```js
+
 const Varun = {
   education:'MBA @ University of East London',
   interest :['Full Stack Development'],
