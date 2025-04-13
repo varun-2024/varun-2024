@@ -9,8 +9,8 @@
 </div>
 
 - 👋 Hi, I’m @varun-2024
-- 👀 I’m interested in ...Fullstack Devlopment. Learning Front End Devlopment First.
-- 🌱 I’m currently learning ... HTML CSS JAVASCRIP
+- 👀 I’m interested in ...Fullstack Development. Learning Front End Development First.
+- 🌱 I’m currently learning ... HTML CSS JAVASCRIPT
 - 💞️ I’m looking to collaborate on ... Anything i can learn from
 - 📫 How to reach me ...v.talwar2024@gmail.com
 - 😄 Pronouns: He/Him
