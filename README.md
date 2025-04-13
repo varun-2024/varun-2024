@@ -5,15 +5,6 @@
   <a href="[https://www.linkedin.com/in/varuntalwar2024/]">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <!-- <a href="https://lohit.is-a.dev/">
-    <img src="https://img.shields.io/badge/Website-%23171717.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
-  </a> -->
-<!--   <a href="https://github.com/varun-2024">
-    <img src="https://komarev.com/ghpvc/?username=lohitkolluri&style=for-the-badge&color=brightgreen" alt="Profile Views">
-  </a> -->
-<!--   <a href="https://www.npmjs.com/package/lohitkolluri">
-    <img src="https://img.shields.io/badge/CLI-npx_lohitkolluri-red?style=for-the-badge&logo=npm&logoColor=white" alt="CLI Card">
-  </a> -->
   
 </div>
 
