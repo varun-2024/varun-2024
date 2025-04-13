@@ -16,6 +16,22 @@
 - 😄 Pronouns: He/Him
 - ⚡ Tech Stack: 
 
+<h2 align="left">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px" height="20px"> 
+  About Me 
+</h2>
+```js
+const Varun = {
+  education:'MBA @ University of East London',
+  interest :['Full Stack Development'],
+  current:  'Learning & Working on Full Stack Projects',
+  tech: {
+    backend:  ['JavaScript', 'Express.js', 'REST API', 'Node.js'],
+    frontend: ['React.js', 'Bootstrap', 'Tailwind CSS'],
+  },
+};
+```
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,js,react,vite,nodejs,express,npm,mysql,mongodb,git,github,powershell,vscode,ps,ae,pr,cpp,linkedin,discord" />
