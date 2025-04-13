@@ -14,7 +14,13 @@
 - 💞️ I’m looking to collaborate on ... Anything i can learn from
 - 📫 How to reach me ...v.talwar2024@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Tech Stack: 
+- ⚡ Tech Stack:
+
+- <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,js,react,vite,nodejs,express,npm,mysql,mongodb,git,github,powershell,vscode,ps,ae,pr,cpp,linkedin,discord" />
+  </a>
+</p>
 
 <h2 align="left">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px" height="20px"> 
@@ -34,11 +40,7 @@ const Varun = {
 };
 ```
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,js,react,vite,nodejs,express,npm,mysql,mongodb,git,github,powershell,vscode,ps,ae,pr,cpp,linkedin,discord" />
-  </a>
-</p>
+
 
 <!---
 varun-2024/varun-2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
