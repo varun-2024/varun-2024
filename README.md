@@ -21,7 +21,7 @@ const Varun = {
   current:  'Learning & Working on Full Stack Projects',
   tech: {
     backend:  ['JavaScript', 'Express.js', 'REST API', 'Node.js'],
-    frontend: ['React.js', 'Bootstrap', 'Tailwind CSS'],
+    frontend: ['HTML', 'CSS', 'JavaScript', 'React.js', 'Bootstrap', 'Tailwind CSS'],
   },
 };
 ```
