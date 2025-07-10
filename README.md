@@ -42,12 +42,12 @@ const Varun = {
 
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,js,react,materialui,vite,nodejs,express,npm,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,materialui" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=npm,mysql,mongodb,git,github" />
+    <img src="https://skillicons.dev/icons?i=,vite,nodejs,express,npm,mysql,mongodb,git,github" />
   </a>
 </p>
  <p align="center">
